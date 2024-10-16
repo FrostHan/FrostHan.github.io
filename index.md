@@ -2,16 +2,13 @@
 layout: default
 ---
 
-
-
 ## Research Interests
 
-Hi there, I am a senior researcher in the Shanghai AI/ML group of Microsoft Research Asia.
+Hi, I am a senior researcher in the Shanghai AI/ML group of Microsoft Research Asia.
 
 I am interested in neural networks, both artificial ones and biological ones, as well as the principles underlying decision making. In particular, my ultimate research objective is to understand the computational mechanisms of the brain and create machines as intelligent as humans.
 
 ### Research directions
-
 
 - Computational neuroscience / cognitive science
 - Spiking neural networks
@@ -20,7 +17,17 @@ I am interested in neural networks, both artificial ones and biological ones, as
 - Embodied artificial intelligence
 - Brain-computer interface
 
+## Education
 
+### University of Science and Technology of China
+
+**B.S. in Theoretical Physics**  (Supervisor: Dr. Jinlin Xie)  
+*Hefei, China, Sep. 2012 - Jun. 2016*
+
+### Okinawa Institute of Science and Technology  
+
+**Ph.D.**  (Supervisor: Dr. Jun Tani and Dr. Kenji Doya)  
+*Okinawa, Japan, Sep. 2016 - Sep. 2022*
 
 ## Selected Publications
 
@@ -80,4 +87,3 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
    D. Han, J. Xie, A. Hussain, B. Gao, C. Qu, W. Liao, X. Xu, F. Gao, H. Li, T. Lan  
    *Review of Scientific Instruments 89 (10), 2018*  
    [Link](https://aip.scitation.org/doi/10.1063/1.5045360)
-
