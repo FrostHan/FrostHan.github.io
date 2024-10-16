@@ -38,7 +38,7 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
 
 - **Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**  
     Y Shen, X Jiang, Y Wang, Y Yang, D Han, D Li  
-    *NeurIPS, 2023*  
+    *NeurIPS, 2024*  
     [Link](https://arxiv.org/abs/2403.12404)
 
 - **Efficient and Effective Time-Series Forecasting with Spiking Neural Networks**  
