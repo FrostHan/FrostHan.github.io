@@ -43,8 +43,13 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
     *NeurIPS, 2024 (Spotlight)*  
     [Link](https://arxiv.org/abs/2405.14362)
 
+- **Personalized progression modelling and prediction in Parkinson’s disease with a novel multi-modal graph approach**
+    J. Lian, X. Luo, C. Shan, D. Han, C. Zhang, V. Vardhanabhuti, D. Li & L. Qiu   
+    *npj Parkinsons Dis. 10, 229 (2024)*   
+    [Link](https://www.nature.com/articles/s41531-024-00832-w)
+
 - **Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**  
-    Y Shen, X Jiang, Y Wang, Y Yang, D Han, D Li  
+    Y. Shen, X. Jiang, Y. Wang, Y. Yang, D. Han, D. Li  
     *NeurIPS, 2024*  
     [Link](https://arxiv.org/abs/2403.12404)
 
@@ -55,7 +60,7 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
 
 - **Addressing Signal Delay in Deep Reinforcement Learning**  
     W. Wang, D. Han, X. Luo, D. Li  
-    *ICLR, 2023 (Spotlight)*  
+    *ICLR, 2024 (Spotlight)*  
     [Link](https://openreview.net/forum?id=r1xzuHtvjRZ)
 
 - **Toward Open-ended Embodied Tasks Solving**  
