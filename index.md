@@ -35,9 +35,13 @@ I am interested in neural networks, both artificial ones and biological ones, as
 
 See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) for the full list.
 
-- [**Habitizing Diffusion Planning for Efficient and Effective Decision Making**](https://arxiv.org/abs/2502.06401)  
-    H. Lu, Y. Shen, D. Li, et al.  
-    arXiv preprint arXiv:2502.06401, 2025  
+- [**Habitizing Diffusion Planning for Efficient and Effective Decision Making**](https://bayesbrain.github.io/)  
+    H. Lu, Y. Shen, D. Li, J. Xing, D. Han.  
+    *ICML, 2025*  
+
+- [**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**](https://opa-dpo.github.io/)  
+   Z. Yang, X. Luo, D. Han, Y. Xu, D. Li.  
+   *ICLR, 2025 (Oral)*
 
 - [**What Makes a Good Diffusion Planner for Decision Making?**](https://openreview.net/forum?id=7BQkXXM8Fy)  
    H. Lu, D. Han, Y. Shen, et al.  
