@@ -41,7 +41,7 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
 
 - [**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**](https://opa-dpo.github.io/)  
    Z. Yang, X. Luo, D. Han, Y. Xu, D. Li.  
-   *ICLR, 2025 (Oral)*
+   *CVPR, 2025 (Oral)*
 
 - [**What Makes a Good Diffusion Planner for Decision Making?**](https://openreview.net/forum?id=7BQkXXM8Fy)  
    H. Lu, D. Han, Y. Shen, et al.  
