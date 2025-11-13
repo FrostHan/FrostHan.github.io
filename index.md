@@ -35,6 +35,14 @@ I am interested in neural networks, both artificial ones and biological ones, as
 
 See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) for the full list.
 
+- [**SimSort: A Powerful Framework for Spike Sorting by Large-Scale Electrophysiology Simulation**](https://simsorttool.github.io/)  
+    Y. Zhang, D. Han., Y. Wang, Y. Gu, D. Li.  
+    *NeurIPS, 2025*  
+
+- [**Toward Relative Positional Encoding in Spiking Transformers**](https://openreview.net/forum?id=MDWJlTWZHH)  
+    C. Lv, Y. Wang, D. Han, Y. Shen, X. Zheng, X. Huang, D. Li.  
+    *NeurIPS, 2025 (Spotlight)*  
+
 - [**Habitizing Diffusion Planning for Efficient and Effective Decision Making**](https://bayesbrain.github.io/)  
     H. Lu, Y. Shen, D. Li, J. Xing, D. Han.  
     *ICML, 2025*  
