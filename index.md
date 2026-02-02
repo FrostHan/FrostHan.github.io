@@ -35,6 +35,15 @@ I am interested in neural networks, both artificial ones and biological ones, as
 
 See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) for the full list.
 
+
+- [**EgoBrain: Synergizing Minds and Eyes For Human Action Understanding**]  
+    N. Lin, Y. Wang, D. Han, W. Jiang, J. Li, R. Furuta, Y. Sato, D. Li  
+    *ICLR, 2025*  
+
+- [**Do Not Let Low-Probability Tokens Over-Dominate in RL for LLMs**]  
+    Z. Yang, X. Luo, Z. Wang, D. Han, Z. He, D. Li, Y. Xu  
+    *ICLR, 2025*  
+
 - [**SimSort: A Powerful Framework for Spike Sorting by Large-Scale Electrophysiology Simulation**](https://simsorttool.github.io/)  
     Y. Zhang, D. Han., Y. Wang, Y. Gu, D. Li.  
     *NeurIPS, 2025*  
