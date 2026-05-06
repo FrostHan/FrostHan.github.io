@@ -35,6 +35,25 @@ I am interested in neural networks, both artificial ones and biological ones, as
 
 See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) for the full list.
 
+- **Improving Diffusion Planners by Self-Supervised Action Gating with Energies**  
+    Y. Lu, D. Han, Y. Wang, D. Li  
+    *ICML, 2026*  
+
+- **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency**  
+    M. Xiao, Y. Wang, D. Han, C. Shan, D. Li  
+    *ICML, 2026*  
+
+- **Mitigating Plasticity Loss through Architectural Design in Continual Learning**  
+    N. Koeppe, L. F. Vecchietti, D. Han, D. Li, S. W. Lee  
+    *ICML, 2026*  
+
+- **Stabilized Supralinear Networks Learn to Switch Coding Strategies Balancing Cost and Performance**  
+    H. A. Wang, W. P. Dai, J. Ma, J. Zhang, J. Liu, M. Jiang, M. Xiao, Y. Wang, D. Han, D. Li, Y. Yu  
+    *ICML, 2026*  
+
+- [**VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL**](https://openreview.net/forum?id=gXjOsBcXIR)  
+    K. Park, Y. Yang, J. Yi, S. Zheng, M. Muaz, Y. Shen, D. Han, C. Shan, L. Qiu  
+    *ICLR, 2026*
 
 - [**EgoBrain: Synergizing Minds and Eyes For Human Action Understanding**](https://openreview.net/forum?id=DGcoJINQ7P)  
     N. Lin, Y. Wang, D. Han, W. Jiang, J. Li, R. Furuta, Y. Sato, D. Li  
