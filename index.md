@@ -35,20 +35,20 @@ I am interested in neural networks, both artificial ones and biological ones, as
 
 See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) for the full list.
 
-- **Improving Diffusion Planners by Self-Supervised Action Gating with Energies**  
+- [**Improving Diffusion Planners by Self-Supervised Action Gating with Energies**](https://openreview.net/forum?id=tLW4Tc7Zn9)  
     Y. Lu, D. Han, Y. Wang, D. Li  
     *ICML, 2026*  
 
-- **Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency**  
+- [**Kuramoto Oscillatory Phase Encoding: Neuro-inspired Synchronization for Improved Learning Efficiency**](https://openreview.net/forum?id=1rSqVUl7l3)  
     M. Xiao, Y. Wang, D. Han, C. Shan, D. Li  
     *ICML, 2026*  
 
-- **Mitigating Plasticity Loss through Architectural Design in Continual Learning**  
+- [**Mitigating Plasticity Loss through Architectural Design in Continual Learning**](https://openreview.net/forum?id=pAhGjPOlwy)  
     N. Koeppe, L. F. Vecchietti, D. Han, D. Li, S. W. Lee  
     *ICML, 2026*  
 
-- **Stabilized Supralinear Networks Learn to Switch Coding Strategies Balancing Cost and Performance**  
-    H. A. Wang, W. P. Dai, J. Ma, J. Zhang, J. Liu, M. Jiang, M. Xiao, Y. Wang, D. Han, D. Li, Y. Yu  
+- [**Adaptive Coding Emerges in Stabilized Supralinear Networks Trained with Local Plasticity**](https://openreview.net/forum?id=fPX6A4us61)  
+    H. Wang, W. Dai, J. Ma, J. Zhang, J. Liu, M. Jiang, M. Xiao, Y. Wang, D. Han, D. Li, Y. Yu  
     *ICML, 2026*  
 
 - [**VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL**](https://openreview.net/forum?id=gXjOsBcXIR)  
@@ -83,7 +83,7 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
    H. Lu, D. Han, Y. Shen, et al.  
    *ICLR, 2025 (Spotlight)*
 
-- [**Synergizing habits and goals with variational Bayes**](https://www.nature.com/articles/s41467-024-24601-5)  
+- [**Synergizing habits and goals with variational Bayes**](https://www.nature.com/articles/s41467-024-48577-7)  
     D. Han, K. Doya, D. Li, J. Tani  
     *Nature Communications 15 (1), 4461, 2024*  
 
@@ -107,7 +107,7 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
    W. Wang, D. Han, X. Luo, Y. Shen, C. Ling, B. Wang, D. Li  
    *Second Agent Learning in Open-Endedness Workshop, NeurIPS, 2023*  
 
-- [**Variational oracle guiding for reinforcement learning**](https://openreview.net/forum?id=sJrbqfnyuLf)  
+- [**Variational oracle guiding for reinforcement learning**](https://openreview.net/forum?id=pjqqxepwoMy)  
    D. Han, T. Kozuno, X. Luo, Z.Y. Chen, K. Doya, Y. Yang, D. Li  
    *ICLR, 2022*  
 
@@ -115,7 +115,7 @@ See [my Google Scholar](https://scholar.google.com/citations?user=3V_9fRUAAAAJ) 
    D. Han, K. Doya, J. Tani  
    *ICLR, 2020*  
 
-- [**Self-organization of action hierarchy and compositionality by reinforcement learning with recurrent neural networks**](https://www.sciencedirect.com/science/article/pii/S0893608020301654)  
+- [**Self-organization of action hierarchy and compositionality by reinforcement learning with recurrent neural networks**](https://www.sciencedirect.com/science/article/pii/S0893608020302070)  
    D. Han, K. Doya, J. Tani  
    *Neural Networks 129, 149-162, 2020*  
 
